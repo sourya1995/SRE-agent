@@ -1,4 +1,4 @@
-Great question! Let me explain **why** each of these improvements is crucial for a production SRE system, not just nice-to-have features:
+
 
 ## 🗄️ **Database Persistence**
 **Why you need it:**
