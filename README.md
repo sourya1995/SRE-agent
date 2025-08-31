@@ -1,4 +1,5 @@
 # SRE-agent
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/sourya1995/SRE-agent)
 
 Potential Issues to be fixed:
 
